@@ -1,16 +1,40 @@
 {
     "icons": [
         {
+            "title": "archery",
+            "source": "https://github.com/osmandapp/OsmAnd-resources/blob/master/icons/svg/sport/archery.svg"
+        },
+        {
+            "title": "badmington",
+            "source": "https://gist.github.com/Tomasz-W/a56711ac75baf0bddf8655a04bdf8924#file-sport-badminton-svg"
+        },
+        {
             "title": "baseball-ball",
             "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/baseball-ball.svg"
+        },
+        {
+            "title": "baseball-bat",
+            "source": "https://gist.github.com/Tomasz-W/a56711ac75baf0bddf8655a04bdf8924#file-sport-baseball-svg"
         },
         {
             "title": "basketball-ball",
             "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/basketball-ball.svg"
         },
         {
+            "title": "billiard-ball",
+            "source": "https://gist.github.com/Tomasz-W/a56711ac75baf0bddf8655a04bdf8924#file-sport-billiards-svg"
+        },
+        {
             "title": "bowling-ball",
             "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/bowling-ball.svg"
+        },
+        {
+            "title": "canoe",
+            "source": "https://gist.github.com/Tomasz-W/a56711ac75baf0bddf8655a04bdf8924#file-sport-canoe-svg"
+        },
+        {
+            "title": "chess",
+            "source": "https://gist.github.com/Tomasz-W/a56711ac75baf0bddf8655a04bdf8924#file-sport-chess-pitch-svg"
         },
         {
             "title": "dumbbell",
@@ -25,12 +49,28 @@
             "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/golf-ball.svg"
         },
         {
+            "title": "handball",
+            "source": "https://gist.github.com/Tomasz-W/a56711ac75baf0bddf8655a04bdf8924#file-sport-handball-svg"
+        },
+        {
             "title": "hockey-puck",
             "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/hockey-puck.svg"
         },
         {
             "title": "quidditch",
             "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/quidditch.svg"
+        },
+        {
+            "title": "run",
+            "source": "https://gist.github.com/Tomasz-W/a56711ac75baf0bddf8655a04bdf8924#file-sport-running-svg"
+        },
+        {
+            "title": "shoot",
+            "source": "https://gist.github.com/Tomasz-W/a56711ac75baf0bddf8655a04bdf8924#file-sport-skateboarding-svg"
+        },
+        {
+            "title": "skateboard",
+            "source": "https://gist.github.com/Tomasz-W/a56711ac75baf0bddf8655a04bdf8924#file-sport-shooting.svg"
         },
         {
             "title": "soccer-ball",
