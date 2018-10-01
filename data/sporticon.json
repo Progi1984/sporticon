@@ -1,0 +1,48 @@
+{
+    "icons": [
+        {
+            "title": "baseball-ball",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/baseball-ball.svg"
+        },
+        {
+            "title": "basketball-ball",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/basketball-ball.svg"
+        },
+        {
+            "title": "bowling-ball",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/bowling-ball.svg"
+        },
+        {
+            "title": "dumbbell",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/dumbbell.svg"
+        },
+        {
+            "title": "football-ball",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/football-ball.svg"
+        },
+        {
+            "title": "golf-ball",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/golf-ball.svg"
+        },
+        {
+            "title": "hockey-puck",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/hockey-puck.svg"
+        },
+        {
+            "title": "quidditch",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/quidditch.svg"
+        },
+        {
+            "title": "soccer-ball",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/futbol.svg"
+        },
+        {
+            "title": "table-tennis",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/table-tennis.svg"
+        },
+        {
+            "title": "volleyball-ball",
+            "source": "https://github.com/FortAwesome/Font-Awesome/blob/master/advanced-options/raw-svg/solid/volleyball-ball.svg"
+        }
+    ]
+}
