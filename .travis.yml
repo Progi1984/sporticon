@@ -12,6 +12,18 @@ jobs:
       node_js: 8
       script:
         - npm run test
+    - stage: deploy
+      name: "NPM Package"
+      language: node_js
+      node_js: 8
+      if: branch = master
+
+      deploy:
+        provider: npm
+        email: "progi1984@gmail.com"
+        api_key: "$NPM_KEY"
+        on:
+          branch: master
 
 notifications:
   email:
